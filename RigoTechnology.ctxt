@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=RigoTechnology
+comment1.params=
+comment1.target=void\ frameLayout()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ clearValue()
+comment3.params=
+comment3.target=void\ addSenior()
+comment4.params=
+comment4.target=void\ addJunior()
+comment5.params=
+comment5.target=void\ appointSenior()
+comment6.params=
+comment6.target=void\ appointJunior()
+comment7.params=
+comment7.target=void\ displayResult()
+comment8.params=
+comment8.target=void\ terminateDeveloper()
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=11
